@@ -27,3 +27,5 @@ This is a basic Express.js server used for JS Dev Experience documentation, in p
     ```bash
     npm start
     ```
+
+[![Build Status](https://dev.azure.com/michelatrum/z01in/_apis/build/status/michel-atrum.js-e2e-express-server?branchName=main)](https://dev.azure.com/michelatrum/z01in/_build/latest?definitionId=1&branchName=main)
